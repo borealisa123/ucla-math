@@ -1,11 +1,11 @@
-# math33b
+# ucla math notes
 
-My notes for Fall 2019 Quarter Math 33B with Professor Haofei Fan
+condensed study guides/cheat sheets for the following classes:
+* Fall 2019 Math 33B - Haofei Fan
+* Fall 2020 Math 115AH - Jonathan Rubin
+* Winter 2021 Math 156 - Jamie Haddock
 
-Ignore my doodles. Or don't ¯\\_(ツ)_/¯
+additional notes for the following classes:
+* Fall 2019 Math 33B - Haofei Fan
 
-### mistakes
-- 10/11 - a differential equation Pdx + Qdy = 0 is homogeneous if both coefficients P and Q are homogeneous of the same degree
-- 10/29 study guide thing - for 1st order Existence and Uniqueness, y' = ay + f, f is a function of t and y. both f(t,y) and df/dy need to be continuous
-- 10/29 study guide thing - wronskian is != 0 if u and v are linearly independent
-- 11/08 - case 2 should be tr(a)^2 - 4det(a) < 0, i forgot the ^2
+full of doodles and mistakes, so take these with a grain of salt
