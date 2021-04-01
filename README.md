@@ -1,5 +1,8 @@
 # ucla math notes
 
+
+full of doodles and mistakes, so take these with a grain of salt
+
 condensed study guides/cheat sheets for the following classes:
 * Fall 2019 Math 33B - Haofei Fan
 * Fall 2020 Math 115AH - Jonathan Rubin
@@ -8,4 +11,3 @@ condensed study guides/cheat sheets for the following classes:
 additional notes for the following classes:
 * Fall 2019 Math 33B - Haofei Fan
 
-full of doodles and mistakes, so take these with a grain of salt
